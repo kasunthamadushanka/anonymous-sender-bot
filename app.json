@@ -7,7 +7,7 @@
         "Telegram Bot",
         "JEBots"
     ],
-    "repository": "https://github.com/ImJanindu/AnonymousSenderBot",
+    "repository": "https://github.com/kasunthamadushanka/anonymous-sender-bot",
     "success_url": "https://t.me/Infinity_Bots",
     "env": {
         "BOT_TOKEN": {
